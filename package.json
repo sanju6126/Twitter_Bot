@@ -1,0 +1,18 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "A Twitter Bot that helps finding the HashTags depending upon the query passed. Will also allow the user to send follow request,make comment in the posts, like to the post,comments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanju6126/Twitter_Bot.git"
+  },
+  "author": "Sanjay",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
